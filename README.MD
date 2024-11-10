@@ -7,7 +7,7 @@
   <img
     src="https://render.gitanimals.org/lines/K-KY"
     width="1200"
-    height="120"
+    height="300"
   />
 </a>
   
