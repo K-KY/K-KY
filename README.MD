@@ -6,7 +6,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/K-KY"
-    width="600"
+    width="1200"
     height="120"
   />
 </a>
