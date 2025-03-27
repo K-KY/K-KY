@@ -21,7 +21,7 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
 <div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-KY&show_icons=true&count_private=true&theme=dark&hide_border=true" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-KY&show_icons=true&count_private=true&theme=dark&hide_border=true&include_all_commits=true" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=K-KY&layout=compact&theme=dark&hide_border=true" width=56% />
