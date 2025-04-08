@@ -7,7 +7,7 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
 ### 🐾 GitAnimals Contribution Stats
 
 <div>
-    <a>
+    <a href="https://github.com/devxb/gitanimals">
         <img alt="gitAnimals" src="https://render.gitanimals.org/farms/K-KY" width="100%"/>
     </a>
 
