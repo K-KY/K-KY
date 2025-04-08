@@ -45,7 +45,7 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages**:
+##### **Languages**
 <p>
   <img alt="" src="https://img.shields.io/badge/Java-b4bdc0?style=flat-round&logo=coffeescript&logoColor=white">
   <img alt="" src="https://img.shields.io/badge/Python-3776AB?style=flat-round&logo=python&logoColor=43bde5">
@@ -53,25 +53,27 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
   <img alt="" src="https://img.shields.io/badge/Javascript-yellow?style=flat-round&logo=javascript&logoColor=black">
 </p>
 
-- **Framework**:
+##### **Framework**
 <p>
   <img alt="" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-round&logo=spring&logoColor=ffffff">
   <img alt="" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-round&logo=springboot&logoColor=ffffff">
   <img alt="" src="https://img.shields.io/badge/FastAPI-009688?style=flat-round&logo=FastAPI&logoColor=ffffff">
-</p>
-
-- **Frontend**:
-<p>
   <img alt="" src="https://img.shields.io/badge/Flutter-02569B?style=flat-round&logo=flutter&logoColor=43bde5">
 </p>
 
-- **Databases**:
+[//]: # (##### **Frontend**)
+
+[//]: # (<p>)
+
+[//]: # (</p>)
+
+#####  **Databases**
 <p>
   <img alt="" src="https://img.shields.io/badge/Mysql-4479A1?style=flat-round&logo=MySQL&logoColor=ffffff">
   <img alt="" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-round&logo=mongodb&logoColor=ffffff">
 </p>
 
-- **DevOps**:
+##### **DevOps**
 <p>
   <img alt="" src="https://img.shields.io/badge/Docker-blue?style=flat-round&logo=docker&logoColor=43bde5">
   <img alt="" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-round&logo=jenkins&logoColor=ffffff">
@@ -79,7 +81,7 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
   <img alt="" src="https://img.shields.io/badge/GCP-4285F4?style=flat-round&logo=googlecloud&logoColor=ffffff">
 </p>
 
-- **Others**:
+##### **Others**
 <p>
   <img alt="" src="https://img.shields.io/badge/Git-F05032?style=flat-round&logo=git&logoColor=ffffff">
   <img alt="" src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=github&logoColor=ffffff">
