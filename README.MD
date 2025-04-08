@@ -8,37 +8,73 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
 
 <div>
     <a>
-        <img src="https://render.gitanimals.org/farms/K-KY" width="43%"/>
+        <img alt="gitAnimals" src="https://render.gitanimals.org/farms/K-KY" width="100%"/>
     </a>
-    <a>
-        <img src="https://render.gitanimals.org/lines/K-KY" width="55%"/>
-    </a>
+
+[//]: # (    <a>)
+
+[//]: # (        <img src="https://render.gitanimals.org/lines/K-KY" width="55%"/>)
+
+[//]: # (    </a>)
+
 </div>
 
 ---
+
+###  💻 Algorithm
+<div>
+    <a href="https://solved.ac/kyuyoungk">
+        <img alt="" src="http://mazassumnida.wtf/api/generate_badge?boj=kyuyoungk" width="100%"/>
+    </a>
+</div>
+
 
 ### 📊 GitHub Stats
 <div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-KY&show_icons=true&count_private=true&theme=dark&hide_border=true" width=38% />
+    <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-KY&show_icons=true&count_private=true&theme=dark&hide_border=true" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-KY&layout=compact&theme=dark&hide_border=true&line_height=41" width=56% />
+  <img alt="" src="https://github-readme-stats.vercel.app/api?username=K-KY&layout=compact&theme=dark&hide_border=true&line_height=41" width=61% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=K-KY&custom_title=My%20GitHub%20Activity&hide_border=true&theme=github" width=100%/>
+    <img alt="" src="https://github-readme-activity-graph.vercel.app/graph?username=K-KY&custom_title=My%20GitHub%20Activity&hide_border=true&theme=github" width=100%/>
 </a>
 </div>
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages**: Java, Python, Dart
-- **Backend**: Spring Boot, FastAPI
-- **Frontend**: Flutter
-- **Databases**: MySQL
-- **DevOps**: Docker, Jenkins, AWS, GCP
-- **Others**: Git
+- **Languages**: 
+<img alt="" src="https://img.shields.io/badge/Java-b4bdc0?style=flat-round&logo=coffeescript&logoColor=white">
+<img alt="" src="https://img.shields.io/badge/Python-3776AB?style=flat-round&logo=python&logoColor=43bde5">
+<img alt="" src="https://img.shields.io/badge/Dart-blue?style=flat-round&logo=Dart&logoColor=43bde5">
+<img alt="" src="https://img.shields.io/badge/Javascript-yellow?style=flat-round&logo=javascript&logoColor=black">
+
+- **Framework**: 
+<img alt="" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-round&logo=spring&logoColor=ffffff">
+<img alt="" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-round&logo=springboot&logoColor=ffffff">
+<img alt="" src="https://img.shields.io/badge/FastAPI-009688?style=flat-round&logo=FastAPI&logoColor=ffffff">
+
+- **Frontend**: 
+<img alt="" src="https://img.shields.io/badge/Flutter-02569B?style=flat-round&logo=flutter&logoColor=43bde5">
+
+- **Databases**: 
+<img alt="" src="https://img.shields.io/badge/Mysql-4479A1?style=flat-round&logo=MySQL&logoColor=ffffff">
+<img alt="" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-round&logo=mongodb&logoColor=ffffff">
+
+- **DevOps**: 
+<img alt="" src="https://img.shields.io/badge/Docker-blue?style=flat-round&logo=docker&logoColor=43bde5">
+<img alt="" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-round&logo=jenkins&logoColor=ffffff">
+<img alt="" src="https://img.shields.io/badge/AWS-009688?style=flat-round&logo=amazon&logoColor=ffffff">
+<img alt="" src="https://img.shields.io/badge/GCP-4285F4?style=flat-round&logo=googlecloud&logoColor=ffffff">
+
+- **Others**: 
+<img alt="" src="https://img.shields.io/badge/Git-F05032?style=flat-round&logo=git&logoColor=ffffff">
+<img alt="" src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=github&logoColor=ffffff">
+<img alt="" src="https://img.shields.io/badge/Nginx-009639?style=flat-round&logo=nginx&logoColor=ffffff">
+
+
 
 ---
 
