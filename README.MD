@@ -8,7 +8,7 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
 
 <div>
     <a href="https://github.com/devxb/gitanimals">
-        <img alt="gitAnimals" src="https://render.gitanimals.org/farms/K-KY" width="100%"/>
+        <img alt="gitAnimals" src="https://render.gitanimals.org/farms/K-KY" width="100%" height="70%"/>
     </a>
 
 [//]: # (    <a>)
