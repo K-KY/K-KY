@@ -28,6 +28,7 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
     </a>
 </div>
 
+---
 
 ### 📊 GitHub Stats
 <div>
@@ -42,6 +43,9 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
     <img alt="" src="https://github-readme-activity-graph.vercel.app/graph?username=K-KY&custom_title=My%20GitHub%20Activity&hide_border=true&theme=github" width=100%/>
 </a>
 </div>
+
+---
+
 
 ### 🛠️ Tech Stack & Tools
 
