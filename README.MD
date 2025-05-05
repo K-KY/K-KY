@@ -1,4 +1,8 @@
 ## 🚀 Welcome to My GitHub Profile!
+<a href="https://github.com/K-KY">
+    <img alt="" src="https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=K-KY&section=header&fontAlign=45&fontSize=100&animation=twinkling&descAlign=50&descAlignY=50&textBg=false&fontColor=aaaaaa">
+</a>
+
 
 Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boot, FastAPI, MySQL, Docker, and Cloud Platforms (AWS & GCP)**. I love building scalable systems, optimizing performance, and designing beautiful UIs.
 
