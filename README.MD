@@ -1,10 +1,12 @@
 ## 🚀 Welcome to My GitHub Profile!
+
 <a href="https://github.com/K-KY">
-    <img alt="" src="https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=K-KY&section=header&fontAlign=45&fontSize=100&animation=twinkling&descAlign=50&descAlignY=50&textBg=false&fontColor=aaaaaa">
+    <img alt="" src="https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=K-KY&section=header&fontAlign=45&fontSize=100&animation=twinkling&desc=Backend%20Developer&descAlign=50&descAlignY=70&textBg=false&fontColor=aaaaaa">
 </a>
 
 
-Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boot, FastAPI, MySQL, Docker, and Cloud Platforms (AWS & GCP)**. I love building scalable systems, optimizing performance, and designing beautiful UIs.
+Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boot, FastAPI, MySQL, Docker, and Cloud
+Platforms (AWS & GCP)**. I love building scalable systems, optimizing performance, and designing beautiful UIs.
 
 ---
 
@@ -25,7 +27,8 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
 
 ---
 
-###  💻 Algorithm
+### 💻 Algorithm
+
 <div>
     <a href="https://solved.ac/kyuyoungk">
         <img alt="" src="http://mazassumnida.wtf/api/generate_badge?boj=kyuyoungk" width="100%"/>
@@ -35,6 +38,7 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
 ---
 
 ### 📊 GitHub Stats
+
 <div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -50,10 +54,10 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
 
 ---
 
-
 ### 🛠️ Tech Stack & Tools
 
 ##### **Languages**
+
 <p>
   <img alt="" src="https://img.shields.io/badge/Java-b4bdc0?style=flat-round&logo=coffeescript&logoColor=white">
   <img alt="" src="https://img.shields.io/badge/Python-3776AB?style=flat-round&logo=python&logoColor=43bde5">
@@ -62,6 +66,7 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
 </p>
 
 ##### **Framework**
+
 <p>
   <img alt="" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-round&logo=spring&logoColor=ffffff">
   <img alt="" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-round&logo=springboot&logoColor=ffffff">
@@ -75,13 +80,15 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
 
 [//]: # (</p>)
 
-#####  **Databases**
+##### **Databases**
+
 <p>
   <img alt="" src="https://img.shields.io/badge/Mysql-4479A1?style=flat-round&logo=MySQL&logoColor=ffffff">
   <img alt="" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-round&logo=mongodb&logoColor=ffffff">
 </p>
 
 ##### **DevOps**
+
 <p>
   <img alt="" src="https://img.shields.io/badge/Docker-blue?style=flat-round&logo=docker&logoColor=43bde5">
   <img alt="" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-round&logo=jenkins&logoColor=ffffff">
@@ -90,6 +97,7 @@ Hi there! 👋 I'm Kyuyoung, a passionate developer specializing in **Spring Boo
 </p>
 
 ##### **Others**
+
 <p>
   <img alt="" src="https://img.shields.io/badge/Git-F05032?style=flat-round&logo=git&logoColor=ffffff">
   <img alt="" src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=github&logoColor=ffffff">
