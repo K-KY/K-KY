@@ -1,7 +1,8 @@
 ## 🚀 Welcome to My GitHub Profile!
 
 <a href="https://github.com/K-KY">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=K-KY&section=header&fontAlign=45&fontSize=100&animation=twinkling&textBg=false&fontColor=aaaaaa&desc=DevOps%0ASpring%20Boot%20%7C%20AWS%20%7C%20Docker&descAlign=50&descAlignY=70">
+    <img alt="" src="https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=K-KY&section=header&fontAlign=45&fontSize=100&animation=twinkling&desc=Backend%20Developer&descAlign=50&descAlignY=70&textBg=false&fontColor=aaaaaa">
+
 
 </a>
 
