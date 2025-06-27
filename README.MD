@@ -65,6 +65,7 @@ Platforms (AWS & GCP)**. I love building scalable systems, optimizing performanc
   <img alt="" src="https://img.shields.io/badge/Python-3776AB?style=flat-round&logo=python&logoColor=43bde5">
   <img alt="" src="https://img.shields.io/badge/Dart-blue?style=flat-round&logo=Dart&logoColor=43bde5">
   <img alt="" src="https://img.shields.io/badge/Javascript-yellow?style=flat-round&logo=javascript&logoColor=black">
+  <img alt="" src="https://img.shields.io/badge/TypeScript-43bde5?style=flat-round&logo=typescript&logoColor=#3178C6">
 </p>
 
 ##### **Framework**
@@ -74,6 +75,7 @@ Platforms (AWS & GCP)**. I love building scalable systems, optimizing performanc
   <img alt="" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-round&logo=springboot&logoColor=ffffff">
   <img alt="" src="https://img.shields.io/badge/FastAPI-009688?style=flat-round&logo=FastAPI&logoColor=ffffff">
   <img alt="" src="https://img.shields.io/badge/Flutter-02569B?style=flat-round&logo=flutter&logoColor=43bde5">
+  <img alt="" src="https://img.shields.io/badge/react-02569B?style=flat-round&logo=react&logoColor=#61DAFB">
 </p>
 
 [//]: # (##### **Frontend**)
