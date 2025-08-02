@@ -109,13 +109,11 @@ Platforms (AWS & GCP)**. I love building scalable systems, optimizing performanc
 </p>
 
 
-
 ---
 
 ### 🌱 Currently Learning
 
 - **Kubernetes** for scalable cloud infrastructure
-- **Advanced Flutter Animations**
 
 ---
 
